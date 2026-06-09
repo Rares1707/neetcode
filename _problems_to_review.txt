@@ -1,2 +1,7 @@
+review:
 two-integer-sum: your instinct is always to solve it with a hashmap in 2 passes, but it can be done in one pass
 top-k-elements-in-list
+string-encode-and-decode
+
+just check if you remember the trick:
+products-of-array-discluding-self
