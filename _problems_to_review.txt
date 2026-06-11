@@ -3,6 +3,7 @@ two-integer-sum: your instinct is always to solve it with a hashmap in 2 passes,
 top-k-elements-in-list
 string-encode-and-decode
 valid-sudoku: very cool problem
+longest-consecutive-sequence: IMPORTANT
 
 just check if you remember the trick:
 products-of-array-discluding-self
