@@ -7,3 +7,4 @@ longest-consecutive-sequence: IMPORTANT
 
 just check if you remember the trick:
 products-of-array-discluding-self
+three-integer-sum
