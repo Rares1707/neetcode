@@ -4,6 +4,7 @@ top-k-elements-in-list
 string-encode-and-decode
 valid-sudoku: very cool problem
 longest-consecutive-sequence: IMPORTANT
+trapping-rain-water
 
 just check if you remember the trick:
 products-of-array-discluding-self
