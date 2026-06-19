@@ -5,6 +5,7 @@ string-encode-and-decode
 valid-sudoku: very cool problem
 longest-consecutive-sequence: IMPORTANT
 trapping-rain-water
+longest-repeating-substring-with-replacement
 
 just check if you remember the trick:
 products-of-array-discluding-self
