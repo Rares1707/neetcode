@@ -7,6 +7,7 @@ longest-consecutive-sequence: IMPORTANT
 trapping-rain-water
 longest-repeating-substring-with-replacement
 permutation-string: you came up with a suboptimal space complexity solution
+car-fleet
 
 just check if you remember the trick:
 products-of-array-discluding-self
