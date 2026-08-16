@@ -11,6 +11,7 @@ car-fleet
 find-target-in-rotated-sorted-array
 reorder-linked-list
 remove-node-from-end-of-linked-list: very bad implementation of the one-pass solution
+find-duplicate-integer: I do not like this problem. My argument is present in the source file of my solution.
 
 just check if you remember the trick:
 products-of-array-discluding-self
