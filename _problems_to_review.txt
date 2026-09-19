@@ -17,3 +17,5 @@ just check if you remember the trick:
 products-of-array-discluding-self
 three-integer-sum
 lru-cache
+leetcode_problems/minimum-area-rectangle - you first had to search the solution, but were able to solve it alone a month later
+depth-of-binary-tree - only check if you remember the iterative DFS
