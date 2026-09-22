@@ -17,3 +17,6 @@ Below are notes for the problems.
 balanced-binary-tree
     - DFS / Iterative DFS
     - the iterative DFS is like the two above
+
+same-binary-tree
+    - BFS / DFS / Iterative DFS
