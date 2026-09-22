@@ -13,3 +13,7 @@ Below are notes for the problems.
     - DFS / Iterative DFS
     - for the iterative DFS you need to store the heights in a dict and simulate both the forward and the backward passes of the recursion by doing this:
         - when arriving at a node, if it is not visited, put on the stack: the node itself (marked as visited this time) and its children (marked as unvisited)
+
+balanced-binary-tree
+    - DFS / Iterative DFS
+    - the iterative DFS is like the two above
